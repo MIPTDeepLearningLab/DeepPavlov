@@ -2,13 +2,14 @@
 ---
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #DCE8BA !default;
-$header-bg-color-secondary: #DCE8BA !default;
+$header-bg-color: #3498DB !default;
+$header-bg-color-secondary: #ECF0F1 !default;
 
 // Text
-$section-headings-color: #F46060 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #F09872 !default;
+$section-headings-color: #3498DB !default;
+$body-text-color: #34495E !default;
+$body-link-color: #F1C40F !default;
 $blockquote-text-color: #819198 !default;
 
+$code-bg-color: #ECF0F1 !default;
 @import "{{ site.theme }}";
